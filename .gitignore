@@ -1,0 +1,76 @@
+# === VS Code ===
+.vscode/
+*.code-workspace
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+pip-wheel-metadata/
+dist/
+build/
+*.log
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# === C/C++ ===
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.exe
+*.dll
+*.dSYM/
+*.gcno
+*.gcda
+*.gch
+*.depend
+*.d
+Makefile~
+
+# === SystemVerilog / Quartus / ModelSim ===
+db/
+incremental_db/
+simulation/modelsim/
+*.rpt
+*.qpf
+*.qsf
+*.sdc
+*.sdf
+*.qws
+*.smsg
+*.bak
+*.vcd
+*.wlf
+*.jdi
+*.tcl
+*.vho
+*.vqm
+*.cmp
+*.done
+*.map
+*.pin
+*.summary
+*.svf
+*.smsg
+*.vstf
+
+# === Verilator ===
+obj_dir/
+*.vcd
+*.vpp
+*.dmp
+*.log
+.vltmp/
+
+# === General ===
+*.tmp
+*~
+*.swp
+.DS_Store
+Thumbs.db
