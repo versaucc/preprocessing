@@ -1,0 +1,185 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/sim
+vemaCalculator
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1747047286
+!i10b 1
+!s100 OFO6G;bgDf16BW;Nd>dM>2
+IXQ:BV3Rz_kX88HQLe`5[G2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 emaCalculator_sv_unit
+S1
+Z3 dC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus
+w1747040139
+8emaCalculator.sv
+FemaCalculator.sv
+L0 2
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1747047286.000000
+Z6 !s107 emaCalculator.sv|smaCalculator.sv|uartTransmitter.sv|uartReceiver.sv|uartInterface.sv|topLevel.sv|topLevelTB.sv|
+Z7 !s90 -reportprogress|300|-sv|topLevelTB.sv|topLevel.sv|uartInterface.sv|uartReceiver.sv|uartTransmitter.sv|smaCalculator.sv|emaCalculator.sv|
+!i113 1
+o-sv
+Z8 tCvgOpt 0
+nema@calculator
+vsmaCalculator
+R0
+R1
+!i10b 1
+!s100 cfa?P;a1Gc@j>JbY<ie3<2
+I@f^j0bMPoC0m_9F`aCac20
+R2
+!s105 smaCalculator_sv_unit
+S1
+R3
+w1747045585
+8smaCalculator.sv
+FsmaCalculator.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+o-sv
+R8
+nsma@calculator
+vtopLevel
+R0
+R1
+!i10b 1
+!s100 O991c7jzjBR00:QHz7:Ta1
+IbBa3fc3^T0_jJ4NBHzb170
+R2
+!s105 topLevel_sv_unit
+S1
+R3
+w1747047219
+8topLevel.sv
+FtopLevel.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+o-sv
+R8
+ntop@level
+vtopLevelTB
+R0
+R1
+!i10b 1
+!s100 7Cz?7azm1me`VNPfRJ9>f0
+IJk[?@@lP0VO2hVn8O440Q1
+R2
+!s105 topLevelTB_sv_unit
+S1
+R3
+w1747046773
+8topLevelTB.sv
+FtopLevelTB.sv
+L0 6
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+o-sv
+R8
+ntop@level@t@b
+vuartInterface
+R0
+R1
+!i10b 1
+!s100 U[mL5MFPfNz1ENUOcX5Vj0
+I_CYBIlLXReh_UhDRlFzi90
+R2
+!s105 uartInterface_sv_unit
+S1
+R3
+w1747040097
+8uartInterface.sv
+FuartInterface.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+o-sv
+R8
+nuart@interface
+vuartReceiver
+R0
+R1
+!i10b 1
+!s100 `F_DNFMa6NnMUYVKD2imi0
+I^6VTjoe1>j>hGooL[Hz^31
+R2
+!s105 uartReceiver_sv_unit
+S1
+R3
+w1747040677
+8uartReceiver.sv
+FuartReceiver.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+o-sv
+R8
+nuart@receiver
+vuartTransmitter
+R0
+R1
+!i10b 1
+!s100 QCX9WX@kB:c8?2[139F]i3
+ImMh?]GCmd^nDgABG1mBe@2
+R2
+!s105 uartTransmitter_sv_unit
+S1
+R3
+w1747038584
+8uartTransmitter.sv
+FuartTransmitter.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+o-sv
+R8
+nuart@transmitter

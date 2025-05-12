@@ -1,0 +1,43 @@
+C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/topLevelTB.sv {1 {vlog -work work -sv -stats=none C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/topLevelTB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module topLevelTB
+
+Top level modules:
+	topLevelTB
+
+} {} {}} C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartReceiver.sv {1 {vlog -work work -sv -stats=none C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartReceiver.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module uartReceiver
+
+Top level modules:
+	uartReceiver
+
+} {} {}} C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartInterface.sv {1 {vlog -work work -sv -stats=none C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartInterface.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module uartInterface
+
+Top level modules:
+	uartInterface
+
+} {} {}} C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/emaCalculator.sv {1 {vlog -work work -sv -stats=none C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/emaCalculator.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module emaCalculator
+
+Top level modules:
+	emaCalculator
+
+} {} {}} C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartTransmitter.sv {1 {vlog -work work -sv -stats=none C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartTransmitter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module uartTransmitter
+
+Top level modules:
+	uartTransmitter
+
+} {} {}} C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/smaCalculator.sv {1 {vlog -work work -sv -stats=none C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/smaCalculator.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module smaCalculator
+
+Top level modules:
+	smaCalculator
+
+} {} {}}

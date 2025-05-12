@@ -1,0 +1,235 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vemaCalculator
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1747041911
+!i10b 1
+!s100 OFO6G;bgDf16BW;Nd>dM>2
+IjEDHe;dm<_gFB3[o;FS?61
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!s105 emaCalculator_sv_unit
+S1
+Z2 dC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/sim
+w1747040139
+8C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/emaCalculator.sv
+FC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/emaCalculator.sv
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1747041911.000000
+!s107 C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/emaCalculator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/emaCalculator.sv|
+!i113 1
+Z4 o-work work -sv
+Z5 tCvgOpt 0
+nema@calculator
+vsmaCalculator
+R0
+Z6 !s110 1747041912
+!i10b 1
+!s100 j>RfEd8IPG[>ZCLcVJ<k51
+IM>mXfoPCJm?RM2E]VNUg;2
+R1
+!s105 smaCalculator_sv_unit
+S1
+R2
+w1747040127
+8C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/smaCalculator.sv
+FC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/smaCalculator.sv
+L0 2
+R3
+r1
+!s85 0
+31
+Z7 !s108 1747041912.000000
+!s107 C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/smaCalculator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/smaCalculator.sv|
+!i113 1
+R4
+R5
+nsma@calculator
+vtopLevel
+R0
+R6
+!i10b 1
+!s100 ;g^cE^Zb11>G]gT=ZSo:h1
+I_?OW;SY@4F>]zJN[F>?a83
+R1
+!s105 topLevel_sv_unit
+S1
+R2
+w1747040238
+8C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/topLevel.sv
+FC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/topLevel.sv
+L0 3
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/topLevel.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/topLevel.sv|
+!i113 1
+R4
+R5
+ntop@level
+vtopLevel_tb
+R0
+!s110 1747041468
+!i10b 1
+!s100 ?<Z6VagmPk6X53k>TIm]93
+IFgV3VHZZ[Z1LzlZdIoz`m3
+R1
+Z8 !s105 topLevelTB_sv_unit
+S1
+R2
+w1747039320
+Z9 8C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/topLevelTB.sv
+Z10 FC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/topLevelTB.sv
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1747041468.000000
+Z11 !s107 C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/topLevelTB.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/topLevelTB.sv|
+!i113 1
+R4
+R5
+ntop@level_tb
+vtopLevelTB
+R0
+R6
+!i10b 1
+!s100 i7_Dl@XOAckQ8jdbFT]3@0
+IoN^Y6:Z=0Y`Bl^M;WhH8[1
+R1
+R8
+S1
+R2
+w1747041518
+R9
+R10
+L0 3
+R3
+r1
+!s85 0
+31
+R7
+R11
+R12
+!i113 1
+R4
+R5
+ntop@level@t@b
+vuartInterface
+R0
+R6
+!i10b 1
+!s100 U[mL5MFPfNz1ENUOcX5Vj0
+I?YU<DiI5nmBn?Hz^RaQY30
+R1
+!s105 uartInterface_sv_unit
+S1
+R2
+w1747040097
+8C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartInterface.sv
+FC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartInterface.sv
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartInterface.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartInterface.sv|
+!i113 1
+R4
+R5
+nuart@interface
+vuartReceiver
+R0
+Z13 !s110 1747041913
+!i10b 1
+!s100 `F_DNFMa6NnMUYVKD2imi0
+ICnCjBbEW_J?D@D@iDO3<S0
+R1
+!s105 uartReceiver_sv_unit
+S1
+R2
+w1747040677
+8C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartReceiver.sv
+FC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartReceiver.sv
+L0 2
+R3
+r1
+!s85 0
+31
+Z14 !s108 1747041913.000000
+!s107 C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartReceiver.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartReceiver.sv|
+!i113 1
+R4
+R5
+nuart@receiver
+vuartReciever
+R0
+!s110 1747041528
+!i10b 1
+!s100 ?Xb5DM1j__@dW]a6`Q4Ea0
+I9jjWZ=fSeTR4j4W]nR87P0
+R1
+!s105 uartReciever_sv_unit
+S1
+R2
+w1747038380
+8C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartReciever.sv
+FC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartReciever.sv
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1747041527.000000
+!s107 C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartReciever.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartReciever.sv|
+!i113 1
+R4
+R5
+nuart@reciever
+vuartTransmitter
+R0
+R13
+!i10b 1
+!s100 QCX9WX@kB:c8?2[139F]i3
+I==@;^ZIa^b9o5m39j_`k60
+R1
+!s105 uartTransmitter_sv_unit
+S1
+R2
+w1747038584
+8C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartTransmitter.sv
+FC:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartTransmitter.sv
+L0 2
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartTransmitter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Oliver/bots/fredapi-discord/processing/preprocessing/SeriesPreprocessing/quartus/uartTransmitter.sv|
+!i113 1
+R4
+R5
+nuart@transmitter
