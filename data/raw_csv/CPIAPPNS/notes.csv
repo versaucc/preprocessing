@@ -1,0 +1,2 @@
+id,realtime_start,realtime_end,title,observation_start,observation_end,frequency,frequency_short,units,units_short,seasonal_adjustment,seasonal_adjustment_short,last_updated,popularity,group_popularity,notes
+CPIAPPNS,2025-04-26,2025-04-26,Consumer Price Index for All Urban Consumers: Apparel in U.S. City Average,1914-12-01,2025-03-01,Monthly,M,Index 1982-1984=100,Index 1982-1984=100,Not Seasonally Adjusted,NSA,2025-04-10 07:39:29-05:00,14,64,
